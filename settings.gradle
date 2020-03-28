@@ -1,0 +1,5 @@
+rootProject.name = 'webflux-vs-mvc'
+
+include 'webflux-gateway'
+include 'mvc-gateway'
+include 'ms-employee'
